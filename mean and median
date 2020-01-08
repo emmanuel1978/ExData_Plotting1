@@ -1,0 +1,2 @@
+print(paste("The mean is:", mean(sum_steps$steps), sep = " "))
+print(paste("The median is:", median(sum_steps$steps), sep = " "))
